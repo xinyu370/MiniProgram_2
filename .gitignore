@@ -1,0 +1,6 @@
+# Project exclude paths
+/mini_base/target/
+/mini_common/target/
+/mini_gateway/target/
+/mini_oauth/target/
+/mini_template/target/

@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+
+
+wx:
+  appid: wxa7382d8aae065112
+  appsecret: 116354401a0a7135b0a166051bcf1b75
